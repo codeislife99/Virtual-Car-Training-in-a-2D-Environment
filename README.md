@@ -15,7 +15,6 @@ A virtual car is trained to drive in a 2D environment among other cars following
 
 In a terminal or command window, navigate to the top-level project directory (that contains this README) and run one of the following commands:
 
-```python agent.py```  
-```python -m agent```
+```python Agent.py```  
 
-This will run the `agent.py` file and execute your agent code.
+This will run the `Agent.py` file and execute your agent code.
